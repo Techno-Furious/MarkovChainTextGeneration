@@ -3,6 +3,9 @@
 
 This generator is trained on *The Murder of Roger Ackroyd* novel, so the generated text will reflect the vocabulary and style of that book.
 
+![Markov Chain for the word "murder"](murder_chain.png)
+![Markov Chain for the word "roger"](roger_chain.png)
+
 ## Example Text Generations
 ### Example 1
 ``` python
